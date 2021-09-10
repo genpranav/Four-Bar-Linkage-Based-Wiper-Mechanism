@@ -64,21 +64,3 @@ Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20012
 :fire: [twitter](https://twitter.com/eswar_divi)
 
 </details>
-
-<details open>
-<summary>Dinesh Kumar M.R</summary>
-Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20011
-
-:fire: [twitter](https://twitter.com/dinesh_cr_07)
-
-</details>
-
-<details open>
-<summary>Dabbra Harsha</summary>
-Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20010
-
-</details>
-
-
-
-  
