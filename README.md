@@ -63,10 +63,6 @@ Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20012
 
 :fire: [twitter](https://twitter.com/eswar_divi)
 
-:zap: [LinkedIn]()
-
-:snowflake: [Github]()
-
 </details>
 
 <details open>
@@ -75,20 +71,12 @@ Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20011
 
 :fire: [twitter](https://twitter.com/dinesh_cr_07)
 
-:zap: [LinkedIn]()
-
-:snowflake: [Github]()
 </details>
 
 <details open>
 <summary>Dabbra Harsha</summary>
 Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20010
 
-:fire: [twitter]()
-
-:zap: [LinkedIn]()
-
-:snowflake: [Github]()
 </details>
 
 
