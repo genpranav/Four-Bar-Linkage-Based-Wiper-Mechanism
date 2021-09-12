@@ -1,7 +1,7 @@
 
 # Wiper Mechanism
 
-This project project is the application of basic physics (Slider-Crank mechanism) 
+This project is the application of basic physics (Slider-Crank mechanism) 
 to create manipulatable simulation a wiper mechanism to visualize 
 its functioning. In our case the wiper mechanism 
 is a "bottom-middle pivoted synchronous dual arm wiper".  
