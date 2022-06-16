@@ -1,10 +1,12 @@
 
 # Wiper Mechanism
 
-This project is the application of basic physics (Slider-Crank mechanism) 
+In this project the application of basic physics (Slider-Crank mechanism) 
 to create manipulatable simulation a wiper mechanism to visualize 
-its functioning. In our case the wiper mechanism 
-is a "bottom-middle pivoted synchronous dual arm wiper".  
+its functioning is acheived. In our case the wiper mechanism 
+is a "bottom-middle pivoted synchronous dual arm wiper".
+
+\
 The features of this project are :
 1. GUI
 2. SIMULATION
@@ -12,34 +14,24 @@ The features of this project are :
 4. FILE SAVE
 5. GRAPHS
 
-## Demo
-
-will be up shortly
-
-## Explanation
-
-will be up shortly
 
 ## Documentation
 
-The Documentation of this project - [click here](https://github.com/genpranav/Wiper-Mechanism/blob/main/Wiper_Mechanism.pdf)
+The Documentation of this project can be found [Here](https://github.com/genpranav/Wiper-Mechanism/blob/main/Report.pdf)
 
   
 ## Run Locally
 
-As of now only local deployment is possible
 
-```bash
-The MATLAB code file and application, open and download
-```
-[download here](https://github.com/genpranav/Wiper-Mechanism/blob/main/Wiper_Mechanism.mlapp)
 
-Install Prerequisite
+The MATLAB code file and application can be downloaded from [Here](https://github.com/genpranav/Wiper-Mechanism/blob/main/Wiper_Mechanism.mlapp)
 
-```bash
+Prerequisites
+
 MATLAB version with Appdesigner (project was created in MATLAB 9.9 / R2020b)
+
 You will also require the Image processing toolbox
-```
+
 [download here](https://in.mathworks.com/downloads/web_downloads/)
 
   
@@ -63,4 +55,7 @@ Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20012
 
 :fire: [twitter](https://twitter.com/eswar_divi)
 
+:zap: [LinkedIn](https://www.linkedin.com/in/eswar-divi-963259196/)
+
+:snowflake: [Github](https://github.com/EswarDivi)
 </details>
