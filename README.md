@@ -23,6 +23,8 @@ We use the general metrics to generate the following plots of the model,
 
 ![Analysis graphs](https://github.com/genpranav/Development-and-Analysis-of-4-Bar-Linkage-Based-Wiper-Mechanisms/blob/main/Images/Analysis%20Graphs.jpg)
 
+\
+This project helped me experience the empirical process of full-scale product/model development.
 
 ## Documentation
 
