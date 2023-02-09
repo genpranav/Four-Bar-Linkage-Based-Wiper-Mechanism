@@ -1,5 +1,5 @@
 
-# Wiper Mechanism
+# Wiper Mechanism model Application using Matlab
 
 In this project, I built an application using the rudimentary physics of a **4 bar linkage mechanism**(specifically Slider-Crank mechanism) to create a manipulatable simulation of a wiper mechanism to visualize its functional components and perform practical analysis using Matlab. In our case the wiper mechanism 
 is a "bottom-middle pivoted synchronous dual arm wiper".
